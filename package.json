@@ -3,7 +3,7 @@
   "name": "crypto-price",
   "title": "Crypto Price",
   "description": "Keep an eye on Bitcoin (BTC), Ethereum (ETH), and other cryptocurrency prices and more directly from your system menu bar",
-  "icon": "command-icon.png",
+  "icon": "assets/command-icon.png",
   "author": "almatkai",
   "contributors": [
     "zampa"
